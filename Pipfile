@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 telegram = "*"
 telebot = "*"
+credentials = "*"
+frozendict = "*"
+moralis = "*"
+sqlitedict = "*"
+selenium = "*"
 
 [dev-packages]
 
